@@ -1,4 +1,4 @@
-# secrets2bitwarden
+# ha-secrets-vault
 
 Bidirectional sync between the Home Assistant `secrets.yaml` and a
 Bitwarden vault.
